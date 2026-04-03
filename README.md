@@ -3,7 +3,7 @@
 This is a Machine Learning web app built using Streamlit that predicts whether a customer will churn or not.
 
 ## 🚀 Live Demo
-👉 (Add your deployed link here after deployment)
+👉 [Click Here to View App](https://customer-churn-prediction-ml-qtzjzroqqo8tgyxzvzdaf3.streamlit.app/)
 
 ---
 
@@ -47,7 +47,19 @@ This model is trained on telecom customer data and predicts churn based on key f
 ## ▶️ How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/Omjee_31/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
 streamlit run app.py
+
+
+---
+
+## 🔹 3. Add your name (IMPORTANT for resume)
+```markdown
+## 👨‍💻 Author
+Omjee Singh
+
+## 📸 App Preview
+![App Screenshot](screenshot.png)
+![App Screenshot](screenshot1.png)
