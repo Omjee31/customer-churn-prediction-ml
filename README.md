@@ -47,10 +47,10 @@ This model is trained on telecom customer data and predicts churn based on key f
 ## ▶️ How to Run Locally
 
 ``bash
-git clone https://github.com/Omjee_31/customer-churn-prediction.git
+git clone https://github.com/Omjee_31/customer-churn-prediction-ml.git
 cd customer-churn-prediction
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py```
 
 
 ## 👨‍💻 Author
@@ -60,5 +60,5 @@ Omjee Singh
 
 <p align="center">
   <img src="screenshot.png" width="45%" />
-  <img src="screenshot1.png" width="45%" />
+  <img src="Screenshot1.png" width="45%" />
 </p>
