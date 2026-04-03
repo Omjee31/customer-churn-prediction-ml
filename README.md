@@ -61,5 +61,8 @@ streamlit run app.py
 Omjee Singh
 
 ## 📸 App Preview
-![App Screenshot](screenshot.png)
-![App Screenshot](screenshot1.png)
+
+<p align="center">
+  <img src="screenshot.png" width="45%" />
+  <img src="screenshot1.png" width="45%" />
+</p>
