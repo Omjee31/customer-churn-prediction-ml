@@ -13,7 +13,7 @@ This is a Machine Learning web app built using Streamlit that predicts whether a
 ## 🚀 Live Demo
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://customer-churn-prediction-ml-qtzjzroqqo8tgyxzvzdaf3.streamlit.app/)
 
-👉 https://customer-churn-prediction-ml-qtzjzroqqo8tgyxzvzdaf3.streamlit.app/
+
 
 ---
 
